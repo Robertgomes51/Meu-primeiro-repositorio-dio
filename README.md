@@ -9,4 +9,4 @@ _Abaixo seguem todas as atividades realizadas no BOOTCAMP_
 
 **[OK]** **Introdução ao Git e ao Github** 📎 [**[Certificado]**](https://hermes.digitalinnovation.one/certificates/B6B46D2D.pdf)
 
-**[OK]** **Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso** 📎 **[Em andamento]...*
+**[OK]** **Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso** 📎 [**[Certificado]**](https://hermes.digitalinnovation.one/certificates/43F8D0AD.pdf)
