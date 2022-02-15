@@ -13,7 +13,7 @@ _Abaixo seguem todas as atividades realizadas no BOOTCAMP_
 
 **[X]** **Introdução ao Ecossistema e Documentação Java** 📎 [**[Certificado]**](https://hermes.digitalinnovation.one/certificates/B4B7EB3C.pdf)
 
-**[ Pendente ]** **Dominando IDES Javas** 📎 [**[Certificado]**] ()
+**[X]** **Dominando IDES Javas** 📎 [**[Certificado]**](https://hermes.digitalinnovation.one/certificates/AE323658.pdf)
 
 **[ Pendente ]** **Variáveis, Tipos de Dados e Operadores Matemáticos em Java** 📎 [**[Certificado]**] ()
 
